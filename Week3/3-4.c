@@ -30,6 +30,7 @@ int main()
     q = p+counter-1;
     printChars(p,q);
 }
+/*
 int StringLength(char str[])
 {
     int counter=0,i=0;
@@ -39,7 +40,7 @@ int StringLength(char str[])
     }
     return counter;
 }
-
+*/
 void printChars(char *p, char *q)
 {
 
